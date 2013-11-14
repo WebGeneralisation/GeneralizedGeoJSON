@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "properties":{
+    	"type":"superior"
+    }
+    "features": [
+		{
+		    "type": "FeatureCollection",
+		    "properties":{
+		    	"type":"original"
+		    },
+		    "features": []
+		},
+		{
+		    "type": "FeatureCollection",
+		    "properties":{
+		    	"type":"generalized",
+		    	"generalization":{
+		    		"name":"algorithmName",
+		    		"parameter1":5,
+		    		"parameterN":5
+		    	}
+		    },
+		    "features": []
+		},
+		{
+		    "type": "FeatureCollection",
+		    "properties":{
+		    	"type":"generalized",
+		    	"generalization":{
+		    		"name":"algorithmName",
+		    		"parameter1":10,
+		    		"parameterN":10
+		    	}
+		    },
+		    "features": []
+		}
+    ]
+}

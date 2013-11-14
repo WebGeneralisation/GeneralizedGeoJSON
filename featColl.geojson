@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "properties":{
+        "type":"original"
+    }
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "undefined",
+                "name": "very short",
+                "color": "#f00"
+            },
+            "geometry": {
+                "type": "LineString", 
+                "coordinates": [ [100.0, 0.0], [101.0, 1.0] ] 
+            }
+    ]
+}
