@@ -46,7 +46,7 @@ This specification consists of the following elements:
 ## Specification
 
 ### Work with FeatureCollections
-*We strongly recommend you to use this file-type! It is very flexible and GitHub can visualise your directly!*
+*We strongly recommend you to use this file-type! It is very flexible and GitHub can visualise your data directly!*
 
 **Your initial file has to follow exactly the GeoJSON-Specifiaction, described above!**
 
