@@ -83,7 +83,7 @@ We offer you 2 basic possibilities for the generalized version of this file:
 The syntax of each file is basically always the same.
 You only have to define the generalisation-parameters within the properties-object of the FeatureCollection!
 
-A corresponding GeoJSON-file [featColl_multiple-files.geojson](featColl_multiple-files.geojson) looks as follows:
+A corresponding GeoJSON-file [(featColl_multiple-files.geojson)](featColl_multiple-files.geojson) looks as follows:
 ```JavaScript
 {
     "type": "FeatureCollection",
@@ -116,7 +116,7 @@ A corresponding GeoJSON-file [featColl_multiple-files.geojson](featColl_multiple
 The syntax of each ancilliary is exactly the same as for the previous Version1.
 The only difference is, that you store them not in separate files, but directly within a GeoJSON-FeatureCollection!
 
-A corresponding GeoJSON-file [featColl_multiple-files.geojson](featColl_multiple-files.geojson) looks as follows:
+A corresponding GeoJSON-file [(featColl_multiple-files.geojson)](featColl_multiple-files.geojson) looks as follows:
 ```JavaScript
 {
     "type": "FeatureCollection",
