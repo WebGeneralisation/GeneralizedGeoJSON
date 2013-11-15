@@ -111,6 +111,8 @@ A corresponding GeoJSON-file [(featColl_multiple-files.geojson)](featColl_multip
 }
 ```
 
+***Have a look at the [exemplary file](featColl_example.geojson)!***
+
 #### Version2: 'single-file'
 
 The syntax of each ancilliary is exactly the same as for the previous Version1.
@@ -158,7 +160,7 @@ A corresponding GeoJSON-file [(featColl_multiple-files.geojson)](featColl_multip
     ]
 }
 ```
-
+***Have a look at the [exemplary files](single-file_example)!***
 
 ### Work with pure GeoJSON-geometries
 *This is not recommended, especially because GitHub is not able to visualise these files*
