@@ -12,7 +12,13 @@
 	},
 	{
 		"type": "FeatureCollection",
-		                                                                                
+		"properties":{
+		    	"type":"generalized",
+		    	"generalization":{
+		    		"name":"Visvalingam-Wyatt",
+		    		"tolerance":0.00005
+		    	}
+		    },		                                                                                
 		"features": [
 		{ "type": "Feature", "properties": { "type":"river","name": "Freiberger Mulde", "color":"#00f", "info":"FeatureCollection2"}, "geometry": { "type": "LineString", "coordinates": [[14.25594456721941, 50.96890896383862], [14.18591154834334, 50.96762954355604, 0.0008637812479055631], [14.169307088631674, 50.98806686099159, 0.0006018780057512342], [13.998498545900278, 50.98887355849561]] } }
 
